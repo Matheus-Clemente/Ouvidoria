@@ -1,5 +1,11 @@
 # Ouvidoria
 
+Projeto do 1° periodo da faculdade no qual realizamos uma ouvidoria em python com banco de dados.
+Realizado por:
+Matheus Pinto Clemente;
+Felipe Renan dos Santos Ferreira;
+Mateus Patricio Vasconcelos.
+
 ### Arquivos do projeto:
 - **MainMenuFinal.py**
     - Arquivo principal do projeto 
